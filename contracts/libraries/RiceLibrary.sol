@@ -21,7 +21,7 @@ library RiceLibrary {
                 hex'ff',
                 factory,
                 keccak256(abi.encodePacked(token0, token1)),
-                hex'd0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66' // init code hash
+                hex'73de5fad0021053376bca96b76ada73c501c8610ba9a825ce6605507f599424c' // init code hash
             ))));
     }
 
